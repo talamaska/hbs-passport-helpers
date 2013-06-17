@@ -1,12 +1,5 @@
 
 /**
- * Module dependencies.
- */
-
-var url = require('url')
-  , qs = require('querystring')
-
-/**
  * Helpers method
  *
  * @param {String} name

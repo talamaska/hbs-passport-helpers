@@ -1,6 +1,6 @@
 {
   "name": "hbs-passport-helpers",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "View helper methods from passport exposed to templates",
   "main": "index.js",
   "scripts": {
@@ -26,6 +26,6 @@
   "bugs": {
     "url": "https://github.com/talamaska/hbs-passport-helpers/issues"
   },
-  "_id": "hbs-passport-helpers@0.0.1",
+  "_id": "hbs-passport-helpers@0.0.2",
   "_from": "hbs-passport-helpers@latest"
 }
