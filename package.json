@@ -1,0 +1,31 @@
+{
+  "name": "hbs-passport-helpers",
+  "version": "0.0.1",
+  "description": "View helper methods from passport exposed to templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/talamaska/hbs-passport-helpers.git"
+  },
+  "keywords": [
+    "helpers",
+    "views",
+    "express",
+    "passport",
+    "handlebars"
+  ],
+  "author": {
+    "name": "Zlati Pehlivanov"
+  },
+  "license": "MIT",
+  "readme": "exposed methods from passport for usage in handlebars templates\n isAuthenticated and isUnauthenticated",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/talamaska/hbs-passport-helpers/issues"
+  },
+  "_id": "hbs-passport-helpers@0.0.1",
+  "_from": "hbs-passport-helpers@latest"
+}
